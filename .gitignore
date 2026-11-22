@@ -1,0 +1,10 @@
+
+*pycache*
+
+*.overflow.*
+
+.conda-env/
+.pio-core/
+.pio/
+
+include/secrets.h
